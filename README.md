@@ -1,5 +1,6 @@
-I am a DPhil candidate at the University of Oxford. I concentrate on devising novel tests of physics through the use of constrained cosmological simulations. In addition, my research encompasses galaxy kinematics, the galaxy-halo connection, and the strong-field lensing of gravitational waves. My other areas of expertise include machine learning, Bayesian inference and high-performance computing.
+I am a PhD student at the University of Oxford, specializing in understanding the large-scale structure of the local Universe through constrained cosmological simulations. I also work on smaller-scale astrophysical phenomena, such as galaxy evolution, galactic rotation curves, and gravitational-wave astronomy.
 
+My work combines both theoretical physics and the running of simulations that require high-performance computing facilities. Additionally, I incorporate various aspects of Bayesian inference and machine learning into my research.
 <!--
 **Richard-Sti/Richard-sti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
